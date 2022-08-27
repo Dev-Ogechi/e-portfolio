@@ -1,4 +1,6 @@
 # mini-portfolio
 A responsive website showcasing one's skills and projects through a website
 
-![](https://github.com/mini-portfolio/preview.gif)
+![Dark mode!](/assets/img/darkmode.png "Dark mode")
+![Light mode!](/assets/images/lightmode.png "Light mode")
+
