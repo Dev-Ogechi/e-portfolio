@@ -1,5 +1,7 @@
 # mini-portfolio
-A responsive website showcasing one's skills and projects through a website
+A responsive website that showcases one's skills and projects
+
+- It has the dark/light mode switch
 
 <h3>Dark mode feature</h3>
 
@@ -10,3 +12,4 @@ A responsive website showcasing one's skills and projects through a website
 
 ![Light mode!](/assets/img/lightmode.png "Light mode")
 
+- It has a responsive landing page
