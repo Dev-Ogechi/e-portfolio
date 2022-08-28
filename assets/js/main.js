@@ -29,7 +29,7 @@ const themeButton = document.getElementById('theme-button')
 const darkTheme = 'dark-theme'
 const iconTheme = 'ri-sun-line'
 
-// Previously selected topic (if user selected)
+// Previously selected theme (if user selected)
 const selectedTheme = localStorage.getItem('selected-theme')
 const selectedIcon = localStorage.getItem('selected-icon')
 
@@ -37,7 +37,7 @@ const selectedIcon = localStorage.getItem('selected-icon')
 const getCurrentTheme = () => document.body.classList.contains(darkTheme) ? 'dark' : 'light'
 const getCurrentIcon = () => themeButton.classList.contains(iconTheme) ? 'ri-moon-line' : 'ri-sun-line'
 
-// We validate if the user previously chose a topic
+// We validate if the user previously chose a theme
 if (selectedTheme) 
     {
     // If the validation is fulfilled, we ask what the issue was to know if we activated or deactivated the dark
